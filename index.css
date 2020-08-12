@@ -95,7 +95,7 @@ ul li a:active {
 
 #firstsec::before {
     content: "";
-    background: url('img/fh1.jpg');
+    background: url(img/fh1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
